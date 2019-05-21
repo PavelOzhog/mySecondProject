@@ -1,4 +1,4 @@
-package Lesson11;
+package Lesson11_1;
 
 public class Tiger extends ZooAnimal {
     public Tiger() {

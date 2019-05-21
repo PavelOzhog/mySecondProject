@@ -1,0 +1,11 @@
+package dublLesson12;
+
+public interface Phone {
+
+    void call();
+    void sendMessage(String message);
+
+
+
+
+}
